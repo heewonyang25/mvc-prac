@@ -1,4 +1,4 @@
-# spring_mvc_practice
+# Spring MVC Project with IntelliJ
 
 ## Settings
 * MacOS Monterey
