@@ -5,7 +5,6 @@
 * Java : openjdk version "17.0.2"
 * Spring Framework : 5.2.3.RELEASE
 * Tomcat : 9.0.71
-* Maven : Apache Maven 3.8.7
 * Java Servlet API : 4.0.1
 * IntelliJ IDEA 2022.3.1 (Ultimate Edition)
 
