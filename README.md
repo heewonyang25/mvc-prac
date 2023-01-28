@@ -27,7 +27,7 @@
 
 ### [Result]
 
-<img src=https://github.com/heewonyang25/mvc-prac/blob/master/03.png>
+<img src=https://github.com/heewonyang25/mvc-prac/blob/master/04.png>
 
 ## Reference
 [https://jeeneee.dev/spring/spring-project-intellij/](https://jeeneee.dev/spring/spring-project-intellij/)
